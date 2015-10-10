@@ -31,12 +31,9 @@
                                                              │  │               │                
                                                              │  └───────────────┘                
                                                              │          │                        
-                                                             │          │                        
-                                                             │          │Accepted                
-                                                    Probation│          │staff                   
-                                                      failure│          │application             
-                                                             │          │                        
-                                                             │          │                        
+                                                    Probation│          │Accepted                
+                                                      failure│          │staff                   
+                                                             │          │application             
                                                              │          ▼                        
                                                              │  ┌───────────────┐                
                                                              │  │    Trainee    │                
@@ -46,7 +43,6 @@
                                                                         │                        
                                                                         │Probation               
                                                                         │success                 
-                                                                        │                        
                                                                         ▼                        
   ┌───────────────┐           ┌───────────────┐                 ┌───────────────┐                
   │   Executive   │           │  Superadmin   │                 │     Admin     │                
